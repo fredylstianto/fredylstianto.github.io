@@ -24,7 +24,7 @@
                         url: "https://www.facebook.com/"
                     }, {
                         image: "fa-instagram",
-                        url: ""
+                        url: "https://www.facebook.com/"
                     }]
                 },
                 u = {
