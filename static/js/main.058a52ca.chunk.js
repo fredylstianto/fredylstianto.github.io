@@ -24,7 +24,7 @@
                         url: "https://www.facebook.com/"
                     }, {
                         image: "fa-instagram",
-                        url: "https://www.instagram.com/fredylstianto/"
+                        url: ""
                     }]
                 },
                 u = {
